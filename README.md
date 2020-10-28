@@ -1,5 +1,5 @@
 # gadm-census-correspondence
-This is a corresppondence table to match Canadian census division data from Statistics Canada and [GADM](https://gadm.org/download_country_v3.html).
+This is a correspondence table to match Canadian census division data from Statistics Canada and [GADM](https://gadm.org/download_country_v3.html).
 
 Statistics Canada uses a `CDUID` unique identifier for census divisions, while GADM uses its own standard.
 
